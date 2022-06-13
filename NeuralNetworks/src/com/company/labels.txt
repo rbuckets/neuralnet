@@ -1,0 +1,47 @@
+The labels below correspond with the values inputted by the user in test.txt
+
+------------------------------------------------------------------------------------------
+
+Input Nodes
+
+Hidden Layers
+
+# of Nodes in Hidden Layer 0
+
+Output Nodes
+
+# of Test Cases
+
+Learning Factor
+
+Min Weight Value
+
+Max Weight Value
+
+Error Threshold
+
+Max Iterations
+
+Test Case 1: a[0][0]
+
+Test Case 1: a[0][1]
+
+Test Case 2: a[0][0]
+
+Test Case 2: a[0][1]
+
+Test Case 3: a[0][0]
+
+Test Case 3: a[0][1]
+
+Test Case 4: a[0][0]
+
+Test Case 4: a[0][1]
+
+Expected Output Value of Test Case 1
+
+Expected Output Value of Test Case 2
+
+Expected Output Value of Test Case 3
+
+Expected OUtput Value of Test Case 4
